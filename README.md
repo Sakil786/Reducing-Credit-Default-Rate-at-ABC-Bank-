@@ -1,4 +1,4 @@
-# Reducing-Credit-Default-Rate-at-ABC-Bank-
+# Reducing-Credit-Default-Rate-at-Bank-
 # Goal: 
 * Finding out the risky customers using data, identify the characteristics and recommend suitable actions which will help the bank      reduce overall default rate.
 # Background
